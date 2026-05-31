@@ -3,7 +3,7 @@
 <p align="center">
   <img src="../Images/Crime_Trends.png" width="800">
 </p>
-## Crime Trend Insights
+<h3 align="left">Crime Trend Insights</h3>
 
 ### 1. Property Crime Has the Highest Rate
 
