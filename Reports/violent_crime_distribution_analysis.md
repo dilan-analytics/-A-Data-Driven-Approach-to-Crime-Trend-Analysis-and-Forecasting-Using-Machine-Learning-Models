@@ -1,7 +1,7 @@
 # Distribution of Violent Crime Rate
 
 <p align="center">
-  <img src="Images/Violent_Crime_Distribution.png" width="900">
+  <img src="../Images/Distribution.png" width="800">
 </p>
 
 ## Insights from the Distribution of Violent Crime Rate Histogram
