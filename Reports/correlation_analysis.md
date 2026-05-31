@@ -1,7 +1,7 @@
 # Correlation Matrix Analysis
 
 <p align="center">
-  <img src="Images/Correlation_Matrix.png" width="900">
+  <img src="../Images/Heat_Map.png" width="800">
 </p>
 
 ## Insights from the Correlation Matrix Heatmap
