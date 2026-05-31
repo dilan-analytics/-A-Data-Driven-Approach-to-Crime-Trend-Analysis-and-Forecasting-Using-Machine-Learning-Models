@@ -1,7 +1,7 @@
 # Top 10 Counties with Highest Violent Crime Rate
 
 <p align="center">
-  <img src=".../Images/Top10_Highest_Violent_Counties." width="900">
+  <img src="../Images/Top10_Highest_Violent_Counties.png" width="900">
 </p>
 
 ## Insights from the Top 10 Counties with Highest Violent Crime Rate
